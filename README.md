@@ -1,14 +1,25 @@
 # Análisis de venta de edificios en Connecticut
 Estuve trabajando en una base de datos de ventas de edificios para mejorar mis habilidades.
+
 Librerías usadas:
+
 pyspark.sql import SparkSession hashtag#Sesión para uso de spark
+
 pyspark.sql.functions as F hashtag#Funciones spark
+
 pandas as pd hashtag#Tratamiento de datos
+
 seaborn as sns hashtag#Gráficos
+
 matplotlib.pyplot as plt hashtag#Gráficos
+
 urllib.request import urlopen hashtag#Carga de información en línea
+
 json hashtag#Análisis de archivos Json
+
 plotly.express as px hashtag#Graficación de mapas
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 En el mundo actual de los negocios, la capacidad de analizar datos de manera efectiva se ha convertido en una habilidad esencial para la toma de decisiones. En este sentido, vamos a realizar un análisis de los datos de ventas de edificios de Connecticut para comprender el comportamiento del mercado inmobiliario en la región.
 
